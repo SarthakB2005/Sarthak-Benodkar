@@ -74,7 +74,7 @@ This was one of the **most challenging parts of the project**, as achieving accu
 
 Tuning these parameters correctly was crucial to ensure that the drone behaved in a stable and controlled manner.
 
-[watch the video]:
+[[watch the video]:
 https://youtu.be/qx7hLjOTvYE
 
 
@@ -106,10 +106,6 @@ https://youtu.be/TyzEd0tCLXA
 
 ![Hardware Kit](project-media/images/Hardwarekit.jpeg)
 
-### ⚙️ Circuit / Build Work
-
-![Circuit](project-media/images/somecircuittheyaskedustobuild.jpeg)
-
 ### 🛠️ Setup & Development
 
 ![Setup](project-media/images/virtualenvironmentsetup.png)
@@ -131,7 +127,7 @@ https://youtu.be/TyzEd0tCLXA
 
 ## 📌 Conclusion
 
-This project was a major milestone in our journey into robotics and embedded systems.
+This project was a major milestone in our journey into robotics .
 Participating in e-Yantra helped us gain practical experience and confidence in building real-world engineering solutions.
 
 ---
