@@ -114,6 +114,9 @@ https://youtu.be/TyzEd0tCLXA
 
 ![Work](project-media/images/recievedfreehardwarekit.png)
 
+### Hardware KIt Photo 
+![WHole Kit](project-media/images/FULLHARDWAREKIT.jpeg)
+
 ---
 
 ## 🚀 Learning Outcomes
