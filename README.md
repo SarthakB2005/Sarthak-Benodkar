@@ -40,18 +40,6 @@ We worked on building and understanding an **Autonomous Drone System**, which in
     task4a.py[RAW]
     task4b(pico_controller_PID.py) RAW
 
-    Sarthak-Benodkar
-
-/README.md
-SarthakB2005
-SarthakB2005
-first commit
-9691e6f
- · 
-2 years ago
-
-4 lines (4 loc) · 78 Bytes
-# Sarthak-Benodkar # Sarthak-Benodkar # Sarthak-Benodkar 
 * 📡 Sensor-based navigation
 * 🧠 Autonomous decision making
 * ⚙️ Hardware integration and testing
