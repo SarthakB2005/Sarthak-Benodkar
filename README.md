@@ -74,7 +74,6 @@ This was one of the **most challenging parts of the project**, as achieving accu
 
 Tuning these parameters correctly was crucial to ensure that the drone behaved in a stable and controlled manner.
 
-## ▶️ Watch the Simulation
 [watch the video]:
 https://youtu.be/qx7hLjOTvYE
 
@@ -93,8 +92,6 @@ We recorded this output directly from the system screen while running the Python
 This highlights the **integration between visual input and control logic**, where the drone dynamically adjusts its position according to the processed coordinates.
 
 ---
-
-## ▶️ Watch the Camera View Demo
 
 [[Watch the video]:
 https://youtu.be/TyzEd0tCLXA
