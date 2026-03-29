@@ -59,6 +59,7 @@ We worked on building and understanding an **Autonomous Drone System**, which in
 
 ## 📸 Project Highlights
 
+---
 
 ## 🎥 Simulation Demo (Gazebo)
 
@@ -95,11 +96,14 @@ This highlights the **integration between visual input and control logic**, wher
 
 ## ▶️ Watch the Camera View Demo
 
-[![Watch the video]:
+[[Watch the video]:
 https://youtu.be/TyzEd0tCLXA
 
 > 📌 This video demonstrates how the drone uses top-view camera input to determine coordinates and navigate while being safely constrained during testing.
 
+---
+
+---
 
 ### 📦 Hardware Kit Received
 
