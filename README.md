@@ -31,6 +31,18 @@ The competition involves:
 
 ---
 
+About the Project KRISHI DRONE 
+
+🌾 Theme: Krishi Drone (KD) – Sustainable Smart Farming
+
+This project addresses the future of sustainable agriculture through robotics and automation. Designed for a compact smart greenhouse, our system operates a "Krishi Drone" to autonomously monitor and treat crops. Because the drone itself carries no onboard camera, we engineered a centralized control system that relies on an overhead camera to act as the "eyes" of the operation.
+
+The system uses Image Processing to continuously scan the crop beds below for signs of disease, such as yellowing leaves or mildew. Once a problem is detected, our ground computer calculates the coordinates and guides the drone to navigate through brightly colored hoops, pick up a targeted pesticide treatment, and precisely spray the infected zone. This highly targeted approach avoids waste, protects nearby healthy crops, and promotes a cleaner, resource-efficient farming ecosystem.
+
+To bring this complex system to life, our team mastered and integrated a diverse technical stack, including Linux Basics, ROS 2 & Gazebo simulations, Control Systems (PID) for quadcopter stability, and Git/GitHub for seamless collaboration.
+
+---
+
 ## ✈️ Project Description
 
 We worked on building and understanding an **Autonomous Drone System**, which involved:
@@ -49,9 +61,11 @@ We worked on building and understanding an **Autonomous Drone System**, which in
 
 ## 🧰 Tech & Concepts Used
 
-* Embedded Systems
+* Linux
+* ROS2
 * Drone Control Systems
 * Sensors & Actuators
+* Gazebo
 * Basic Robotics Algorithms
 * Simulation & Testing
 
@@ -77,7 +91,7 @@ Tuning these parameters correctly was crucial to ensure that the drone behaved i
 [[watch the video]:
 https://youtu.be/qx7hLjOTvYE
 
-
+---
 
 ## 🎥 Top Camera View & Coordinate Processing
 
@@ -97,8 +111,6 @@ This highlights the **integration between visual input and control logic**, wher
 https://youtu.be/TyzEd0tCLXA
 
 > 📌 This video demonstrates how the drone uses top-view camera input to determine coordinates and navigate while being safely constrained during testing.
-
----
 
 ---
 
@@ -137,7 +149,7 @@ Participating in e-Yantra helped us gain practical experience and confidence in 
 
 ## 📬 Connect
 
-If you liked this project or want to collaborate, feel free to connect!
+If you liked this project or want to collaborate, feel free to connect!   [sarthakbenodkar@gmail.com]
 My teammates :  1. Ameya Degaonkar 
                 2. Aditya Dengale
                 3. Pranav Rokade
